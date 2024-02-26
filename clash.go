@@ -4,11 +4,11 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/Dreamacro/clash/constant"
-	"github.com/Dreamacro/clash/hub/executor"
-	"github.com/Dreamacro/clash/log"
-	T "github.com/Dreamacro/clash/tunnel"
-	"github.com/Dreamacro/clash/tunnel/statistic"
+	"github.com/BarryDeng/clash/constant"
+	"github.com/BarryDeng/clash/hub/executor"
+	"github.com/BarryDeng/clash/log"
+	T "github.com/BarryDeng/clash/tunnel"
+	"github.com/BarryDeng/clash/tunnel/statistic"
 	"github.com/eycorsican/go-tun2socks/core"
 	"github.com/eycorsican/go-tun2socks/proxy/socks"
 )
